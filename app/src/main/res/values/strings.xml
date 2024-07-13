@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hackcaton</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Афиша</string>
+    <string name="title_dashboard">Места</string>
+    <string name="title_notifications">Бонусы</string>
+    <string name="maps">maps</string>
+</resources>
